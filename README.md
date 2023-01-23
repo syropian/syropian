@@ -17,6 +17,7 @@ I've really been vibing with the **VITL** stack — that's **V**ue, **I**nertia.
 ### 📬 How can I get in touch?
 
 Here's some links
+- 🐘&nbsp;&nbsp;&nbsp;&nbsp;[Mastodon](https://mastodon.social/@syropian)
 - 🐦&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/syropian)
 - 💬&nbsp;&nbsp;&nbsp;&nbsp;[Discord (syropian#0589)](https://discordapp.com/users/114814130166300678)
 - ✉️&nbsp;&nbsp;&nbsp;&nbsp;[Email](mailto:collin@syropia.net)

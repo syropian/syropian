@@ -4,7 +4,6 @@
 
 Hi! I'm Collin Henderson (he/him)
 
-- 👾&nbsp;&nbsp;&nbsp;&nbsp;Senior Software Engineer at [Combo](https://www.joincombo.com/)
 - 🌟&nbsp;&nbsp;&nbsp;&nbsp;Built and run [Astral](https://github.com/astralapp/astral) — the best way to search and organize your GitHub stars
 - 🎁&nbsp;&nbsp;&nbsp;&nbsp;Building [UnderWraps](https://underwraps.gift) — a simple tool for managing anonymous gift exchanges (frequently known as _Secret Santa_)
 - 👪&nbsp;&nbsp;&nbsp;&nbsp;Created [Knot](https://github.com/knotworks) — a self-hosted social network for families and other small groups

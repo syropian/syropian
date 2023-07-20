@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=syropian.syropian&left_color=#fafafa&right_color=#dc393e)
-
 ### 👨‍💻 About Me
 
 Hi! I'm Collin Henderson (he/him)

@@ -10,7 +10,10 @@ Hi! I'm Collin Henderson (he/him)
 
 #### Favourite Stack?
 
-I've really been vibing with the **VITL** stack — that's **V**ue, **I**nertia.js, **T**ailwind, and **L**aravel. I use Vue 3 with `<script setup>`, TypeScript, and the Composition API.
+- [Laravel](https://laravel.com)
+- [Vue](https://vuejs.org)
+- [Hybridly](https://hybridly.dev/)
+- [Tailwind](https://tailwindcss.com/)
 
 ### 📬 How can I get in touch?
 

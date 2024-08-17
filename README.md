@@ -12,8 +12,8 @@ Hi! I'm Collin Henderson (he/him)
 
 - [Laravel](https://laravel.com)
 - [Vue](https://vuejs.org)
-- [Hybridly](https://hybridly.dev/)
-- [Tailwind](https://tailwindcss.com/)
+- [Hybridly](https://hybridly.dev) / [Inertia](https://inertiajs.com)
+- [Tailwind](https://tailwindcss.com)
 
 ### 📬 How can I get in touch?
 

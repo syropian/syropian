@@ -19,10 +19,9 @@ Hi! I'm Collin Henderson (he/him)
 
 Here's some links
 - 🦋&nbsp;&nbsp;&nbsp;&nbsp;[Bluesky](https://bsky.app/profile/syropian.bsky.social)
-- 🐦&nbsp;&nbsp;&nbsp;&nbsp;[Twitter](https://twitter.com/syropian)
 - 💬&nbsp;&nbsp;&nbsp;&nbsp;[Discord (syropian#0589)](https://discordapp.com/users/114814130166300678)
 - ✉️&nbsp;&nbsp;&nbsp;&nbsp;[Email](mailto:collin@syropia.net)
 
 ### 💛 Sponsoring
 
-Besides maintaining [Astral](https://github.com/astralapp/astral) and [Knot](https://github.com/knotworks), I've also built and support a few open source packages, all in my spare time. If you'd like to support any of my work for any amount feel free to check out my [GitHub Sponsorships page](https://github.com/sponsors/syropian). Thank you!
+I build and maintain open source tools in my spare time. If something I’ve made has been useful to you, consider supporting the work through my [GitHub Sponsors page](https://github.com/sponsors/syropian). It helps me keep things maintained and continue building new tools.

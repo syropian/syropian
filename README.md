@@ -24,4 +24,4 @@ Here's some links
 
 ### 💛 Sponsoring
 
-I build and maintain open source tools in my spare time. If something I’ve made has been useful to you, consider supporting the work through my [GitHub Sponsors page](https://github.com/sponsors/syropian). It helps me keep things maintained and continue building new tools.
+I build and maintain open source tools in my spare time. If something I’ve made has been useful to you, consider supporting the work through my [GitHub Sponsors page](https://github.com/sponsors/syropian). It helps me keep things maintained and continue building new projects.
